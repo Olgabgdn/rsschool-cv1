@@ -1,5 +1,4 @@
 # Olga Bogdan
-=============
 Junior Frontend Developer
 *************
 ## Contact information:
@@ -22,6 +21,10 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 *************
 ## Code example:
 ## Courses:
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) (in progress)
+* Stepik "Postman"
+![Certificate](/images/photo1719492814.jpeg)
 ## Languages:
 * English - Intermediate/Upper-intermediate
 * Russian - Native
