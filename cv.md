@@ -28,6 +28,7 @@ Currently I work as a QA engineer. But more and more often I began to catch myse
   }
 
 console.log(invert([1, -1, 6]))```
+
 ## Courses:
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) (in progress)
