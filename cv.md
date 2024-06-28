@@ -19,15 +19,16 @@ Currently I work as a QA engineer. But more and more often I began to catch myse
 * Postman
 *************
 ## Code example:
-```function invert(array) {
+```
+function invert(array) {
     let result = [];
     for (let i = 0; i < array.length; i++) {
       result.push(array[i] * -1);
     }
     return result
   }
-
-console.log(invert([1, -1, 6]))```
+console.log(invert([1, -1, 6]))
+```
 
 ## Courses:
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
